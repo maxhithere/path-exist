@@ -1,3 +1,3 @@
 # path-exist
 
-check if a path exists in go
+check if a directory exists in go
